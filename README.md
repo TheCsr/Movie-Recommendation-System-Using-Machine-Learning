@@ -1,6 +1,9 @@
 # Movie-Recommendation-System-Using-Machine-Learning
 Movie Recommender Web App Using Machine Learning and Django
 
+First Step :
+ Download the recmnd Folder and extract it . 
+
 
 ****NOTE****
 
